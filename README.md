@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Немного о себе
+
+### Скиллы
+
+- Скилл1
+- Скилл2
+- Скилл3
+- Скилл4
+
 <!--
 **Pichuek/Pichuek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
