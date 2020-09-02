@@ -17,6 +17,7 @@
 ![Javascript React](https://img.shields.io/badge/Javascript-Кнопочка4-F6F46B)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichuek)](https://github.com/Pichuek/github-readme-stats)
+![AGithub stats](https://github-readme-stats.vercel.app/api?username=Pichuek&show_icons=true&theme=default)
 
 <!--
 **Pichuek/Pichuek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
