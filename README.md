@@ -1,3 +1,5 @@
+![Cover of my profile](https://github.com/Pichuek/Pichuek/blob/master/ziliboba.jpg "Profile Cover")
+
 ### Hi there 👋
 
 Немного о себе
