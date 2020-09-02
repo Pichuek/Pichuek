@@ -11,6 +11,11 @@
 - Скилл3
 - Скилл4
 
+![Javascript React](https://img.shields.io/badge/Javascript-Кнопочка1-blue)
+![Javascript React](https://img.shields.io/badge/Javascript-Кнопочка2-blue)
+![Javascript React](https://img.shields.io/badge/Javascript-Кнопочка3-blue)
+![Javascript React](https://img.shields.io/badge/Javascript-Кнопочка4-blue)
+
 <!--
 **Pichuek/Pichuek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
